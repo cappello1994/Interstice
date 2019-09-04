@@ -1,0 +1,8 @@
+/* 
+  Localizable.strings
+  Interstice
+
+  Created by Stephanie Cappello on 8/27/19.
+  Copyright © 2019 StarSteppers. All rights reserved.
+*/
+"key_b" = "This is an overridden translation.";

@@ -7,21 +7,38 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3B0EB3D8231EF80300938605 /* SignUpViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B0EB3D7231EF80300938605 /* SignUpViewController.swift */; };
+		3B0EB3DB231EFB0E00938605 /* OnboardingStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3B0EB3DD231EFB0E00938605 /* OnboardingStoryboard.storyboard */; };
 		3B7FCD04230C7A260032D248 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B7FCD03230C7A260032D248 /* AppDelegate.swift */; };
-		3B7FCD06230C7A260032D248 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B7FCD05230C7A260032D248 /* ViewController.swift */; };
 		3B7FCD09230C7A260032D248 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3B7FCD07230C7A260032D248 /* Main.storyboard */; };
 		3B7FCD0B230C7A270032D248 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3B7FCD0A230C7A270032D248 /* Assets.xcassets */; };
 		3B7FCD0E230C7A270032D248 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3B7FCD0C230C7A270032D248 /* LaunchScreen.storyboard */; };
+		3B85F64C2320490D0099F834 /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = 3B85F64B2320490D0099F834 /* .gitignore */; };
+		3B87E7C62315BDBF00A9F600 /* OpenDyslexic-Bold.otf in Resources */ = {isa = PBXBuildFile; fileRef = 3B87E7C52315BDBF00A9F600 /* OpenDyslexic-Bold.otf */; };
+		3B87E7CA2315BDCC00A9F600 /* OpenDyslexic-BoldItalic.otf in Resources */ = {isa = PBXBuildFile; fileRef = 3B87E7C72315BDCC00A9F600 /* OpenDyslexic-BoldItalic.otf */; };
+		3B87E7CB2315BDCC00A9F600 /* OpenDyslexic-Italic.otf in Resources */ = {isa = PBXBuildFile; fileRef = 3B87E7C82315BDCC00A9F600 /* OpenDyslexic-Italic.otf */; };
+		3B87E7CC2315BDCC00A9F600 /* OpenDyslexic-Regular.otf in Resources */ = {isa = PBXBuildFile; fileRef = 3B87E7C92315BDCC00A9F600 /* OpenDyslexic-Regular.otf */; };
+		3B87E7CE2315C0D800A9F600 /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = 3B87E7CD2315C0D800A9F600 /* Localizable.strings */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		3B0EB3D1231EF44C00938605 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Main.strings; sourceTree = "<group>"; };
+		3B0EB3D2231EF44C00938605 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/LaunchScreen.strings; sourceTree = "<group>"; };
+		3B0EB3D7231EF80300938605 /* SignUpViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignUpViewController.swift; sourceTree = "<group>"; };
+		3B0EB3DC231EFB0E00938605 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/OnboardingStoryboard.storyboard; sourceTree = "<group>"; };
+		3B0EB3DF231EFB1A00938605 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/OnboardingStoryboard.strings; sourceTree = "<group>"; };
 		3B7FCD00230C7A260032D248 /* Interstice.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Interstice.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		3B7FCD03230C7A260032D248 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		3B7FCD05230C7A260032D248 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		3B7FCD08230C7A260032D248 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		3B7FCD0A230C7A270032D248 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3B7FCD0D230C7A270032D248 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		3B7FCD0F230C7A270032D248 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3B85F64B2320490D0099F834 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
+		3B87E7C52315BDBF00A9F600 /* OpenDyslexic-Bold.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "OpenDyslexic-Bold.otf"; sourceTree = "<group>"; };
+		3B87E7C72315BDCC00A9F600 /* OpenDyslexic-BoldItalic.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "OpenDyslexic-BoldItalic.otf"; sourceTree = "<group>"; };
+		3B87E7C82315BDCC00A9F600 /* OpenDyslexic-Italic.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "OpenDyslexic-Italic.otf"; sourceTree = "<group>"; };
+		3B87E7C92315BDCC00A9F600 /* OpenDyslexic-Regular.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "OpenDyslexic-Regular.otf"; sourceTree = "<group>"; };
+		3B87E7CD2315C0D800A9F600 /* Localizable.strings */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; path = Localizable.strings; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -35,6 +52,24 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		3B0EB3E0231EFB8200938605 /* Storyboards */ = {
+			isa = PBXGroup;
+			children = (
+				3B7FCD0C230C7A270032D248 /* LaunchScreen.storyboard */,
+				3B7FCD07230C7A260032D248 /* Main.storyboard */,
+				3B0EB3DD231EFB0E00938605 /* OnboardingStoryboard.storyboard */,
+			);
+			path = Storyboards;
+			sourceTree = "<group>";
+		};
+		3B0EB3E1231EFBA100938605 /* Controllers */ = {
+			isa = PBXGroup;
+			children = (
+				3B0EB3D7231EF80300938605 /* SignUpViewController.swift */,
+			);
+			path = Controllers;
+			sourceTree = "<group>";
+		};
 		3B7FCCF7230C7A260032D248 = {
 			isa = PBXGroup;
 			children = (
@@ -54,14 +89,27 @@
 		3B7FCD02230C7A260032D248 /* Interstice */ = {
 			isa = PBXGroup;
 			children = (
+				3B0EB3E1231EFBA100938605 /* Controllers */,
+				3B0EB3E0231EFB8200938605 /* Storyboards */,
+				3B87E7C42315BD7900A9F600 /* fonts */,
 				3B7FCD03230C7A260032D248 /* AppDelegate.swift */,
-				3B7FCD05230C7A260032D248 /* ViewController.swift */,
-				3B7FCD07230C7A260032D248 /* Main.storyboard */,
 				3B7FCD0A230C7A270032D248 /* Assets.xcassets */,
-				3B7FCD0C230C7A270032D248 /* LaunchScreen.storyboard */,
 				3B7FCD0F230C7A270032D248 /* Info.plist */,
+				3B87E7CD2315C0D800A9F600 /* Localizable.strings */,
+				3B85F64B2320490D0099F834 /* .gitignore */,
 			);
 			path = Interstice;
+			sourceTree = "<group>";
+		};
+		3B87E7C42315BD7900A9F600 /* fonts */ = {
+			isa = PBXGroup;
+			children = (
+				3B87E7C72315BDCC00A9F600 /* OpenDyslexic-BoldItalic.otf */,
+				3B87E7C82315BDCC00A9F600 /* OpenDyslexic-Italic.otf */,
+				3B87E7C92315BDCC00A9F600 /* OpenDyslexic-Regular.otf */,
+				3B87E7C52315BDBF00A9F600 /* OpenDyslexic-Bold.otf */,
+			);
+			path = fonts;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -104,8 +152,8 @@
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
-				en,
 				Base,
+				en,
 			);
 			mainGroup = 3B7FCCF7230C7A260032D248;
 			productRefGroup = 3B7FCD01230C7A260032D248 /* Products */;
@@ -122,9 +170,16 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3B85F64C2320490D0099F834 /* .gitignore in Resources */,
 				3B7FCD0E230C7A270032D248 /* LaunchScreen.storyboard in Resources */,
+				3B87E7C62315BDBF00A9F600 /* OpenDyslexic-Bold.otf in Resources */,
+				3B87E7CB2315BDCC00A9F600 /* OpenDyslexic-Italic.otf in Resources */,
+				3B87E7CA2315BDCC00A9F600 /* OpenDyslexic-BoldItalic.otf in Resources */,
 				3B7FCD0B230C7A270032D248 /* Assets.xcassets in Resources */,
+				3B87E7CE2315C0D800A9F600 /* Localizable.strings in Resources */,
+				3B0EB3DB231EFB0E00938605 /* OnboardingStoryboard.storyboard in Resources */,
 				3B7FCD09230C7A260032D248 /* Main.storyboard in Resources */,
+				3B87E7CC2315BDCC00A9F600 /* OpenDyslexic-Regular.otf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -135,7 +190,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				3B7FCD06230C7A260032D248 /* ViewController.swift in Sources */,
+				3B0EB3D8231EF80300938605 /* SignUpViewController.swift in Sources */,
 				3B7FCD04230C7A260032D248 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -143,10 +198,21 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
+		3B0EB3DD231EFB0E00938605 /* OnboardingStoryboard.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				3B0EB3DC231EFB0E00938605 /* Base */,
+				3B0EB3DF231EFB1A00938605 /* en */,
+			);
+			name = OnboardingStoryboard.storyboard;
+			path = Interstice;
+			sourceTree = "<group>";
+		};
 		3B7FCD07230C7A260032D248 /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
 				3B7FCD08230C7A260032D248 /* Base */,
+				3B0EB3D1231EF44C00938605 /* en */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
@@ -155,6 +221,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				3B7FCD0D230C7A270032D248 /* Base */,
+				3B0EB3D2231EF44C00938605 /* en */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -166,6 +233,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
 				CLANG_ANALYZER_NONNULL = YES;
 				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
@@ -227,6 +295,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
 				CLANG_ANALYZER_NONNULL = YES;
 				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
